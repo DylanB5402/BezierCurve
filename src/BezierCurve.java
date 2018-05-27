@@ -2,6 +2,7 @@ package src;
 
 import java.util.ArrayList;
 
+/*Fancier Bezier Curve for craig reynold's path following, probably won't ever use*/
 public class BezierCurve {
 	
 	private double m_x0;
